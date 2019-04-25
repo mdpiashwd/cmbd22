@@ -1,0 +1,46 @@
+<?php 
+	/*$a=40;
+	echo $a;
+	$a=60;*/
+	#$ggg=777;
+	// $ria=34;
+	/*define('age',20);
+	echo age."<br>";
+	define("agee","piash");
+	echo agee;*/
+	/*$testone="piash";
+	$testtwo="raha";
+	$data=$testone.'  '.$testtwo;
+	$ab="Hello  Bangladesh My name is \"Piash\" ";
+	echo strlen($ab)."<br>";
+	echo $ab[8]."<br>";
+	echo $ab;
+	echo $data."<br>";*/
+
+	function test(){
+		return "I will be a best web developer an Pharmacist";
+	}
+	function student($data){
+		echo $data;
+	}
+	
+	echo test()."<br>";
+	echo student("Bela Hossain Piash")."<br>";
+	$a="This is Piash";
+	echo strtoupper($a)."<br>";
+	echo strtolower($a)."<br>";
+	echo str_replace('T','R',$a);
+	
+
+?>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
